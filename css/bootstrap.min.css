@@ -2283,9 +2283,7 @@ pre code {
     .col-md-10,
     .col-md-11,
     .col-md-12 {
-        float: left
-    }
-
+    float: left; width: 25%}
     .col-md-12 {
         width: 100%
     }
@@ -2322,9 +2320,7 @@ pre code {
         width: 33.33333333%
     }
 
-    .col-md-3 {
-        width: 25%
-    }
+    
 
     .col-md-2 {
         width: 16.66666667%
